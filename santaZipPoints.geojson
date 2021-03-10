@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "StudentZipCode": "87507",
+        "Lattitude": 35.63743,
+        "Longittude": -106.039368,
+        "Enrollment": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.099368,
+          35.59543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StudentZipCode": "87501",
+        "Lattitude": 35.684155,
+        "Longittude": -105.96702,
+        "Enrollment": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81702,
+          35.8000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StudentZipCode": "87505",
+        "Lattitude": 35.661877,
+        "Longittude": -105.96925,
+        "Enrollment": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81925,
+          35.61877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StudentZipCode": "87508",
+        "Lattitude": 35.648872,
+        "Longittude": -106.014305,
+        "Enrollment": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.014305,
+          35.488723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StudentZipCode": "87506",
+        "Lattitude": 35.687325,
+        "Longittude": -105.97067,
+        "Enrollment": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.99987,
+          35.873251
+        ]
+      }
+    }
+  ]
+}
